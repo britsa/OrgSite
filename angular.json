@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "orgwebsite"
+    }
+  },
+  "defaultProject": "orgwebsite",
+  "cli": {
+    "analytics": "b7659309-c9b6-4e6d-bb54-1df855a4480d"
+  }
 }
