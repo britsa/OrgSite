@@ -24,6 +24,7 @@ ngOnInit()
     
 }
 
+
 modalOpen() {
   $( "#modal" ).modal( { "dismissible": false } );
   this.modal = M.Modal.getInstance( this.modalTemplatefilter.nativeElement );
